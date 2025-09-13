@@ -111,6 +111,7 @@ section.visible, .card.visible, .member.visible {
   gap: 2rem;
   margin-top: 2rem;
 }
+.member:hover { transform: translateY(-5px); }
 .member {
   background: #fff;
   padding: 2rem;
